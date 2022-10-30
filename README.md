@@ -3,5 +3,5 @@
 
 只需一条命令
 ```
-https://raw.githubusercontent.com/Coker-J/acme/main/acme.sh
+wget https://raw.githubusercontent.com/Coker-J/acme/main/acme.sh && chmod +x ./acme.sh &&  . ./acme.sh
 ```
